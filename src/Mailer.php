@@ -80,6 +80,10 @@ class Mailer
         return $this->mail;
     }
 
+    /**
+     * @param string $template
+     * @return BuilderMail
+     */
     public function builderMail($template = ABSPATH."View/template.php")
     {
         return new BuilderMail($template);
