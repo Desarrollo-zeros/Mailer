@@ -1,6 +1,8 @@
 {
   "name": "devzeros/mailer",
+  "type": "library",
   "description": "mailer",
+  "homepage": "https://github.com/Desarrollo-zeros/Mailer",
   "license": "MIT",
   "keywords": [
     "mailer"
@@ -9,7 +11,8 @@
     {
       "name": "Carlos Andrés Castilla García",
       "email": "carloscastilla31@gmail.com",
-      "homepage": "https://desarrollo-zeros.github.io"
+      "homepage": "https://desarrollo-zeros.github.io",
+      "role": "Developer"
     }
   ],
   "require": {
