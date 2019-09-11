@@ -97,8 +97,8 @@
         <td style="padding: 40px">
             <p>:firm-page</p>
             <p style="position: relative; bottom: 40px;">_______________________________________</p>
-            <p id="tel" style="display: none;position: relative; bottom: 50px; font-size: 15px;">Telefono: :tel-page</p>
-            <p id="email" style="display: none;position: relative; bottom: 90px; font-size: 15px;">Correo:
+            <p id="tel" style="display: none;position: relative; bottom: 60px; font-size: 15px;">Telefono: :tel-page</p>
+            <p id="email" style="display: none;position: relative; bottom: 80px; font-size: 15px;">Correo:
                 :email-page</p>
         </td>
     </tr>
